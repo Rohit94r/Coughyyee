@@ -1,72 +1,88 @@
-<!-- HEADER -->
+<!-- ================= HEADER ================= -->
+
 <h1 align="center">Hey 👋, I'm Rohit Jadhav</h1>
-<h3 align="center">🚀 Full Stack Developer | AI SaaS Builder | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI SaaS Builder | 💻 MERN + Next.js</h3>
 
 ---
 
-<!-- TYPING ANIMATION -->
+<!-- ================= TYPING ================= -->
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Expert;AI+Tools+Builder;Future+Software+Engineer;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+%2B+Next.js;AI+Tools+Builder;Building+Real+World+Projects;Future+Software+Engineer+🚀" />
 </p>
 
 ---
 
-<!-- PROFILE VIEWS + FOLLOW -->
+<!-- ================= BADGES ================= -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Rohit94r&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Rohit94r?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Rohit94r?style=social" />
 </p>
 
 ---
+
+<!-- ================= ABOUT ================= -->
 
 ## 🧠 About Me
 
-- 🎓 Engineering Student (Mumbai University - ECS)
-- 💻 Full Stack Developer (MERN + Next.js + TypeScript)
-- 🤖 Building AI-powered SaaS products
-- 📈 Focused on real-world projects & placements
-- ⚡ Love solving problems and building fast
-- 🎯 Goal: Crack top tech companies & scale my own products
+* 🎓 Engineering Student (Mumbai University - ECS)
+* 💻 Full Stack Developer (MERN + Next.js + TypeScript)
+* 🤖 Building AI-powered SaaS tools & automation products
+* 📚 Strong in Java, DSA & modern web development
+* ⚡ Passionate about solving real-world problems
+* 🎯 Goal → Crack top product-based companies & build scalable products
 
 ---
+
+<!-- ================= TECH STACK ================= -->
 
 ## ⚔️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,js,ts,java,git,github,vscode,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,ts,js,java,tailwind,git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🚀 Featured Projects (REAL WORK 🔥)
+<!-- ================= PROJECTS ================= -->
+
+## 🚀 Featured Projects
 
 ### 🤖 AI SaaS Platform
-- Tools: Background Remover, Object Remover, Image Generator  
-- Social Media Downloader (YouTube + Instagram)  
-- PDF Editor & AI utilities  
-- Tech: Next.js, Node.js, OpenAI API  
+
+* Built multiple AI tools (Image Generator, Background Remover, Object Remover)
+* YouTube & Instagram Downloader
+* PDF tools and automation features
+* Tech: Next.js, Node.js, OpenAI API
 
 ---
 
-### 🚗 Car Rental Platform
-- User booking system  
-- Admin dashboard (manage cars & bookings)  
-- Authentication & database integration  
-- Tech: MERN Stack  
+### 🚗 Car Rental Web App
+
+* Full booking system with user & admin dashboard
+* Manage cars, bookings, and users
+* Authentication & database integration
+* Tech: MERN Stack
 
 ---
 
-### 🛒 E-Commerce Web App
-- Product listing, cart & checkout  
-- User authentication  
-- Scalable backend APIs  
-- Tech: MERN Stack  
+### 🛒 E-Commerce Platform
+
+* Product listing, cart, and checkout system
+* User authentication & order management
+* REST APIs and scalable backend
+* Tech: MERN Stack
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit94r&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohit94r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
@@ -74,7 +90,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rohit94r&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Rohit94r&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 ---
@@ -82,7 +98,7 @@
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit94r&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit94r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
@@ -95,42 +111,50 @@
 
 ---
 
+<!-- ================= EDGE ================= -->
+
 ## ⚡ What Makes Me Different
 
-- 🚀 I build real-world full-stack applications (not just tutorials)  
-- 🤖 I integrate AI into practical products  
-- 💡 I focus on solving problems, not just coding  
-- 📈 I am consistent and growth-driven  
+* 🚀 I build real-world full-stack applications (not just tutorials)
+* 🤖 I integrate AI into practical SaaS products
+* 💡 I focus on solving problems, not just writing code
+* 📈 Consistent learner with strong execution mindset
 
 ---
+
+<!-- ================= GOALS ================= -->
 
 ## 🎯 Current Focus
 
-- 🔭 Building **AI SaaS Tools Platform**
-- 🌱 Learning **System Design + Advanced Backend**
-- 💼 Preparing for **Top Product-Based Companies**
-- 🎥 Growing **Tech YouTube Channel**
+* 🔭 Building AI SaaS platform
+* 🌱 Learning System Design & Advanced Backend
+* 💼 Preparing for product-based company placements
+* 🎥 Growing a tech-focused YouTube channel
 
 ---
+
+<!-- ================= CONNECT ================= -->
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/rohit-jadhav">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:rjdhav67@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-Let's Talk-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
 
 ---
 
-## 💬 Developer Quote
+<!-- ================= QUOTE ================= -->
 
-> "I don't just build projects, I build solutions that matter 🚀"
+## 💬 Developer Mindset
+
+> ⚡ "Code. Build. Ship. Repeat. — That’s the grind."
 
 ---
 
-⭐️ From Rohit Jadhav | Future Software Engineer 💻
+⭐️ Rohit Jadhav | Future Software Engineer 🚀
